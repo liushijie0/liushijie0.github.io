@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 2;
   color: #606c71; }
 
 a {
@@ -217,7 +217,7 @@ a {
 
 @media screen and (max-width: 42em) {
   .main-content {
-    padding: 2rem 1rem;
+    padding: 1rem 2rem;
     font-size: 1rem; } }
 
 .site-footer {
